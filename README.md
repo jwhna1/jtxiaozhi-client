@@ -1,4 +1,7 @@
-# 小智跨平台客户端 (jtxiaozhi-client)
+<div align="center">
+  
+ # 小智跨平台客户端 (jtxiaozhi-client)
+</div>
 
 <div align="center">
 
@@ -370,7 +373,7 @@ make -j$(nproc)
 - **MQTT服务器**：支持MQTT 3.1+协议
 - **UDP音频端口**：支持UDP数据包传输
 - **OTA配置接口**：提供设备配置获取接口
-- **WebSocket支持**：可选的WebSocket备用协议
+- **WebSocket支持**：可选的WebSocket协议
 
 ## 贡献指南
 
