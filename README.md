@@ -12,7 +12,7 @@
 ![Version](https://img.shields.io/badge/Version-v0.1.0-red.svg)
 
 基于虾哥xiaozhi-esp32固件源码灵感编写的现代化跨平台音频通信客户端
-## 代码正在整理中，近日将开源发布
+
 [![B站](https://img.shields.io/badge/B站-jtserver团队-ff69b4.svg)](https://space.bilibili.com/298384872)
 [![GitHub](https://img.shields.io/badge/GitHub-jwhna1-181717.svg)](https://github.com/jwhna1)
 
@@ -32,7 +32,15 @@
 - [许可证](#-许可证)
 - [联系我们](#-联系我们)
 
+
 ## 项目简介
+
+### 界面介绍
+
+#### 主界面布局
+
+<img width="1830" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f72ce6f-8a50-45a4-8a2f-0c8acaaeba20" />
+
 
 **小智跨平台客户端**是一个基于c++ Qt/QML开发的现代化音频通信客户端，让没有esp32硬件设备想体验小智服务的朋友们有一个便捷的体验方式。本项目受到虾哥xiaozhi-esp32固件源码的启发，提供了直观易用的图形界面和强大的音频处理能力。
 
@@ -281,14 +289,6 @@ make -j$(nproc)
 - **测试音频**：发送测试音频验证连接
 
 ## 使用说明
-
-### 界面介绍
-
-#### 主界面布局
-```
-<img width="657" height="228" alt="4ba7d94b-019c-44f2-8363-5336190ccf35" src="https://github.com/user-attachments/assets/b0ee4113-9714-4a45-80c3-6b477ebf28ab" />
-
-```
 
 #### 设备状态指示
 - **离线**：设备未连接
