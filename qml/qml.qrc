@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/TitleBar.qml</file>
+        <file>components/SideBar.qml</file>
+        <file>components/AddDeviceDialog.qml</file>
+        <file>components/EditDeviceDialog.qml</file>
+        <file>components/SettingsDialog.qml</file>
+        <file>components/AboutDialog.qml</file>
+        <file>components/UpdateDialog.qml</file>
+        <file>components/ChatArea.qml</file>
+        <file>components/ChatBubble.qml</file>
+        <file>components/MessageInput.qml</file>
+        <file>components/DeviceItem.qml</file>
+        <file>theme/Theme.qml</file>
+        <file>theme/qmldir</file>
+    </qresource>
+</RCC>
+

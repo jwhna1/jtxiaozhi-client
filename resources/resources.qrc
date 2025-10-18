@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/minimize.svg</file>
+        <file>icons/maximize.svg</file>
+        <file>icons/close.svg</file>
+        <file>icons/send.svg</file>
+        <file>icons/mic.svg</file>
+        <file>icons/call.svg</file>
+        <file>icons/camera.svg</file>
+        <file>icons/add.svg</file>
+        <file>icons/settings.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../cacert.pem</file>
+    </qresource>
+</RCC>
+
